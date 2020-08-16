@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import smtplib
-
+#Read the README file to see the variables need to be changed by the user
 #Replace <URL> with the URL of the product page from Amazon
 URL = '<URL>'
 #Replace <price> with the price limit you want to set for the product
